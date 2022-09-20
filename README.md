@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Daniel Dantas ✋
-Estudante de Análise de Desenvolvimento de Sistemas
+Estudante de Análise de Desenvolvimento de Sistemas 📚
 
 [![Site](https://img.shields.io/website?label=danieldantasoliv&style=for-the-badge&url=http://danieldantasoliv.atwebpages.com/)](http://danieldantasoliv.atwebpages.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dantas-oliveira-408849162/)
