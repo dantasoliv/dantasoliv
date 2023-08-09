@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Daniel Dantas ✋
-Formado em Análise de Desenvolvimento de Sistemas 📚
+Formado em Análise de Desenvolvimento de Sistemas 👨‍🎓
 Programador JR
 
 [![Site](https://img.shields.io/website?label=danieldantasoliv&style=for-the-badge&url=http://danieldantasoliv.atwebpages.com/)](http://danieldantasoliv.atwebpages.com/)
